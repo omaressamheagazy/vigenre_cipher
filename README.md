@@ -15,9 +15,11 @@ or download the zip direclty to your device
 
 ## Demo
 * Just make sure that you copy the plaintext and then paste it directly into the user problem field in the program
-![image](https://github.com/omaressamheagazy/vigenre_cipher/assets/68665060/0cec5276-dc98-4f52-ba02-1b052df0f74f)
-
+  
 ![image](https://github.com/omaressamheagazy/vigenre_cipher/assets/68665060/520f3438-dcf8-450e-bfe5-9d7cf2f080a5)
+
+![image](https://github.com/omaressamheagazy/vigenre_cipher/assets/68665060/12c4623c-cc11-419d-8a44-d8384c15d2cc)
+
 
 
 
@@ -26,4 +28,4 @@ or download the zip direclty to your device
 
 - [@omaressamheagazy](https://github.com/omaressamheagazy)
 
-![image](https://github.com/omaressamheagazy/vigenre_cipher/assets/68665060/3dde19eb-d35e-4ddb-8c21-66b966d732d2)
+
