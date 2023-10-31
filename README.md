@@ -3,7 +3,7 @@
 A simple encryption tool that uses a keyword to encrypt your plaintext, and offers multiple options to demonstrate the process for educational purposes.
 ## Installation
 
-Install The rep 
+Install The repO
 
 ```bash
   git clone https://github.com/omaressamheagazy/vigenre_cipher.git
