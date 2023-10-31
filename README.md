@@ -1,4 +1,3 @@
-![image](https://github.com/omaressamheagazy/vigenre_cipher/assets/68665060/17ef2a2c-fb38-4fdb-a8b9-d676cd824d5a)
 # vigenère cipher
 
 A simple encryption tool that uses a keyword to encrypt your plaintext, and offers multiple options to demonstrate the process for educational purposes.
