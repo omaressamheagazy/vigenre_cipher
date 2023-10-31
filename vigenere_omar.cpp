@@ -19,7 +19,7 @@ int main()
     getline(cin, plainText);
     plainTextLength = plainText.length();
     // Get the keyword from the user
-    cout << "Enter the keyword: ";
+    cout << "\nEnter the keyword: ";
     cin >> keyword;
     keywordLength = keyword.length();
     // Counting the letters in the plaintext, only letter
@@ -52,10 +52,12 @@ int main()
         cout << "\nChoose the option\n [1] display the Numerical keywords\n [2] display the Numerical plaintext \n [3] display the numerical ciphertext \n [4] display the ciphertext \n [5] exit \n";
         cout << "Your option : ";
         cin >> option;
+        cout<<"-------------------------\n";
         if(option == 1) { // display the Numerical keywords
             for (size_t i = 0; i < keywordLength; i++)
                 cout<<keywordNum[i]<<" ";
         }
+
         else if(option == 2){ // display the Numerical plaintext
             for (size_t i = 0; i < letterLength; i++)
                 cout<<plainNum[i]<<" ";
@@ -69,6 +71,7 @@ int main()
                 cout<<ciphertext[i]<<" ";
         }
         else break;
+        cout<<"\n-------------------------";
     }
     // Deallocate memory
     delete[] keywordNum;
