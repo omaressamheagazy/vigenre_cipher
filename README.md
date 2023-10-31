@@ -14,7 +14,7 @@ or download the zip direclty to your device
 
 
 ## Demo
-* Just make sure that you copy the plaintext and then paste it directly into the user problem field in the program
+* Just make sure that you copy the plaintext and then paste it directly into the user prompt field in the program
   
 ![image](https://github.com/omaressamheagazy/vigenre_cipher/assets/68665060/520f3438-dcf8-450e-bfe5-9d7cf2f080a5)
 
