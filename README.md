@@ -9,6 +9,7 @@ Install The rep
   git clone https://github.com/omaressamheagazy/vigenre_cipher.git
 ```
 or download the zip direclty to you device
+
 ![image](https://github.com/omaressamheagazy/vigenre_cipher/assets/68665060/26b65c81-e6c4-437a-be29-05d61fa315d6)
 
 ## Demo
@@ -19,7 +20,7 @@ or download the zip direclty to you device
 
 
 
-## Authors
+## Author
 
 - [@omaressamheagazy](https://github.com/omaressamheagazy)
 
